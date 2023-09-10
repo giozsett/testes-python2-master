@@ -27,17 +27,3 @@ else: classif = "ERRO - Desculpe, apenas são classificadas notas de 0 a 100."
 
 print(f"Sua nota foi: {nota}")
 print(f"A classificação obtida foi: {classif}")
-
-
-
-#  (
-#                if nota <= 69:(print(f"{nota} obteve classificação D."))
-#                else:(if nota <= 79:
-#                      (
-#                          
-#                      )
-#                )
-
-##            )
-#        else:(print(f"{nota} obteve classificação F."))
-#    )
